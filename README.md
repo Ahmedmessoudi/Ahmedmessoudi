@@ -1,5 +1,3 @@
----
-
 ## 👨‍💻 About Me
 
 🎓 **Data Engineering Student** at the Faculty of science in Sfax, Tunisia.
