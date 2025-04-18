@@ -8,10 +8,10 @@
 
 ## 🛠️ Technical Skills
 
-- 🧠 **Semantic Web & Ontologis**: Developed a health domain ontology using RDF, OWL, SPARQL, andSWRL.<br/>
-- 🗃️ **Data Warehousng**: Built a data warehouse for Tunisair, integrating multi-source data (JSON, CSV, Excel, Access) and deploying wit SSAS.<br/>
-- 🎮 **Game Developent**: Created a MiniGame usng C++.<br/>
-- 🌐 **Web Develoment**: Developed the Cholesky Resolution Website with JaaScript.<br/>
+- 🧠 **Semantic Web & Ontology**: Developed a health domain ontology using RDF, OWL, SPARQL, andSWRL.<br/>
+- 🗃️ **Data Warehousing**: Built a data warehouse for Tunisair, integrating multi-source data (JSON, CSV, Excel, Access) and deploying wit SSAS.<br/>
+- 🎮 **Game Development**: Created a MiniGame usng C++.<br/>
+- 🌐 **Web Development**: Developed the Cholesky Resolution Website with JaaScript.<br/>
 
 ---
 
