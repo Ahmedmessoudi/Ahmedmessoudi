@@ -11,7 +11,7 @@
 - 🧠 **Semantic Web & Ontology**: Developed a health domain ontology using RDF, OWL, SPARQL, andSWRL.<br/>
 - 🗃️ **Data Warehousing**: Built a data warehouse for Tunisair, integrating multi-source data (JSON, CSV, Excel, Access) and deploying wit SSAS.<br/>
 - 🎮 **Game Development**: Created a MiniGame usng C++.<br/>
-- 🌐 **Web Development**: Developed the Cholesky Resolution Website with JaaScript.<br/>
+- 🌐 **Web Development**: Developed the Cholesky Resolution Website with React and Flask.<br/>
 
 ---
 
