@@ -6,7 +6,6 @@
 
 
 ## 🧠 My Focus Areas
-- Focus Areas
 - AI & Machine Learning (NLP, deep learning), Healthcare AI systems, Data Engineering & Warehousing, Cloud & DevOps (Kubernetes, CI/CD), and Full-stack intelligent platforms.
 
 
