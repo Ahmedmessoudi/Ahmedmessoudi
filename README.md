@@ -8,6 +8,13 @@
 ## 🧠 My Focus Areas
 - AI & Machine Learning (NLP, deep learning), Healthcare AI systems, Data Engineering & Warehousing, Cloud & DevOps (Kubernetes, CI/CD), and Full-stack intelligent platforms.
 
+## 📬 Connect with Me
+
+| | |
+|---|---|
+| 📄 **CV** | [Download my CV](./CV.pdf) |
+| 💼 **LinkedIn** | [Ahmed Messoudi](https://www.linkedin.com/in/ahmed-messoudi-965147246/) |
+| 📧 **Email** | ahmed.messoudi.tn@gmail.com |
 
 ## 🛠️ Languages & Tools
 
