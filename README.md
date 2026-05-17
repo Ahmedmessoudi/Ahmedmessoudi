@@ -2,7 +2,7 @@
 
 
 ## 📌 About Me
-- I’m Ahmed Messoudi, an AI & Data Engineer focused on building intelligent, scalable solutions that solve real-world problems. My work spans machine learning, data engineering, and cloud systems, with experience delivering end-to-end projects—from data pipelines and model development to deployment using modern DevOps practices.
+- I’m Ahmed Messoudi, an AI & Data Engineering student focused on building intelligent, scalable solutions that solve real-world problems. My work spans machine learning, data engineering, and cloud systems, with experience delivering end-to-end projects—from data pipelines and model development to deployment using modern DevOps practices.
 
 
 ## 🧠 My Focus Areas
